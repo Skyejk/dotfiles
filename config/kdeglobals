@@ -1,0 +1,11 @@
+[General]
+TerminalApplication=kitty
+
+[Icons]
+Theme=Tela-circle-pink
+
+[Colors:View]
+BackgroundNormal=#00000000
+
+[UiSettings]
+ColorScheme=*
